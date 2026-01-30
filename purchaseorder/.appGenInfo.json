@@ -1,0 +1,23 @@
+{
+  "generationParameters": {
+    "generationDate": "Thu Jan 29 2026 16:04:54 GMT-0300 (Brasilia Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "http://hanadb02.megawork.local:8000/sap/opu/odata/sap/ZSB_PURCHASE_ORDER",
+    "appName": "purchaseorder",
+    "appTitle": "Integração: Pedidos de Compras",
+    "appDescription": "Integração: Pedidos de Compras",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.114.0",
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.20.1",
+    "template": "Basic V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
